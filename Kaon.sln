@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaon.Client", "Kaon.Client\Kaon.Client.csproj", "{A29101FA-1457-4598-97EC-CD74484FA14A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaon.Server", "Kaon.Server\Kaon.Server.csproj", "{C8AA5CD6-D434-4E73-96AD-4B00C19B9B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaon", "Kaon\Kaon.csproj", "{95526BAA-A486-4FBC-8281-AC436EFF4234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaon.Gen", "Kaon.Gen\Kaon.Gen.csproj", "{B3E8CEBA-6C58-4FEB-AB93-F5EC47CD28C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29101FA-1457-4598-97EC-CD74484FA14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29101FA-1457-4598-97EC-CD74484FA14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29101FA-1457-4598-97EC-CD74484FA14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29101FA-1457-4598-97EC-CD74484FA14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AA5CD6-D434-4E73-96AD-4B00C19B9B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AA5CD6-D434-4E73-96AD-4B00C19B9B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AA5CD6-D434-4E73-96AD-4B00C19B9B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AA5CD6-D434-4E73-96AD-4B00C19B9B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95526BAA-A486-4FBC-8281-AC436EFF4234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95526BAA-A486-4FBC-8281-AC436EFF4234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95526BAA-A486-4FBC-8281-AC436EFF4234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95526BAA-A486-4FBC-8281-AC436EFF4234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E8CEBA-6C58-4FEB-AB93-F5EC47CD28C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E8CEBA-6C58-4FEB-AB93-F5EC47CD28C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E8CEBA-6C58-4FEB-AB93-F5EC47CD28C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E8CEBA-6C58-4FEB-AB93-F5EC47CD28C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

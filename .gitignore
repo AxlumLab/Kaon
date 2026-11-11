@@ -1,0 +1,5 @@
+.codegraph
+bin
+obj
+*.config.json
+.vscode
